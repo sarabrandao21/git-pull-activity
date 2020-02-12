@@ -36,3 +36,5 @@ end
 def clock_noise
   puts "tick"
 end
+
+# Adding a generic comment
